@@ -1,4 +1,4 @@
 Code-Love-and-Trolls
 ====================
 
-Yet Another Git Repo
+Repo for misc programs that don't fit anywhere else.
